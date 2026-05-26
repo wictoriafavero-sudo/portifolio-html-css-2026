@@ -1,1 +1,35 @@
+body{
+  background: #27F5CC;
+  strong{
+    color: white;
+  }
+h1{
+ color:blue;
+  text-aling: center;
+  span{
+    border: 1px solid black;
+    padding: 10px;
+  }
+}
+  p{
+    text-aling: center;
+  }
+  img{
+    display: block;
+    width: 100%;
+    height:auto;
+    max-width: 600px;
+    margin-left: auto;
+    magint-right:auro;
+  }
+  fooder{
+    text-aling: center;
+    strong{
+      color: blue;
+    }
+  }
+}
 
+strong{
+  color:blue;
+=
